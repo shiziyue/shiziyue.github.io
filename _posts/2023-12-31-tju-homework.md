@@ -21,10 +21,11 @@ image:
 ### 所以
 
 没什么可拿得出手的，我就只能把自己的作业拿出来吧
-> 我希望大家可以认真做一些事情
-{: .prompt-info }
 
-我把能找到的自己大学期间的作业整理到了[HOMEWORK](https://github.com/shiziyue/HOMEWORK)这里，希望可以有点用。
+> 我希望大家可以认真做一些事情
+> {: .prompt-info }
+
+我把能找到的自己大学期间的作业整理到了[HOMEWORK](https://github.com/shiziyue/TJU_HOMEWORK)这里，希望可以有点用。
 
 > 直接抄作业是不现实的
-{: .prompt-tip }
+> {: .prompt-tip }
